@@ -1,17 +1,29 @@
-# nft-market-contract
+# NFT-market for Cats!
 
-# Basic Sample Hardhat Project
+Each unique and elegant. Mint your NFT Cat on OpenSea for free today (just pay gas fees)!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![Image](/Image1.png?raw=true&sanitize=true)
 
-Try running some of the following tasks:
+![Image](/Image2.png?raw=true&sanitize=true)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![Image](/Image3.png?raw=true&sanitize=true)
+
+
+Visit:
+
+- https://syed-nft-market.netlify.app/
+
+- https://testnets.opensea.io/collection/kittynft
+
+- https://rinkeby.etherscan.io/address/0x7637f4BD04DA06f47ebf04eb44ECB39fD1c1e0c1#code
+
+Usage:
+- Get a Metamask wallet
+
+- Get some Rinkeby ETH from any faucet
+
+- Mint some Cats!
+
+Tech Stack:
+
+- Solidity, React, Hardhat
